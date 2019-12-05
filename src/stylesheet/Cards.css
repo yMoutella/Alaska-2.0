@@ -1,0 +1,27 @@
+.card{
+    margin: 0px !important;
+    height: 16em;      
+}
+.card-deck{
+    width:100% !important;
+    margin: 0;
+}
+
+.noRadius{
+    border-radius: 0px;
+}
+
+.card:first-child {
+    padding-left: 5px;
+}
+
+.align-itens{
+    display:flex !important;
+    align-items:center !important;    
+    flex-flow: row !important
+}
+
+.darkBlue{
+    background-color: #2490a6;
+    border: 0px;
+}

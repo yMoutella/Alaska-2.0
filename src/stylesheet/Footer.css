@@ -1,0 +1,24 @@
+.footerContent{
+    display:flex;
+    flex-flow: column;    
+    align-items: stretch;
+    
+    height:100%;
+}
+
+.height{
+    height:100%;
+}
+
+.color{
+    background-color: #0a2c36;
+}
+
+.text-pattern{    
+    font-size:3em;
+    color:white;    
+}
+
+a{
+    cursor:pointer;
+}
