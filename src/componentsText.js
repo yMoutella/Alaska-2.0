@@ -27,8 +27,7 @@ class Texts {
                 become a scout and get some food for us`
             }
         }        
-
-        else if (office === 'Scientist'){
+    else if (office === 'Scientist'){
             return {
                 local: 'cards',
                 title: `Become a Scientist`,
@@ -37,6 +36,7 @@ class Texts {
                 responsible for innovations`
             }
         }
+    
 
         else if (office === 'Adm') {
             return {
